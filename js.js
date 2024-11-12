@@ -4,4 +4,4 @@ function callAll(jsfiles) {
     src.setAttribute("src", jsfiles);
     document.getElementsByTagName("head")[0].appendChild(src);
 }
-callAll("/My-note/js.js");
+callAll("/My-Note/js.js");
